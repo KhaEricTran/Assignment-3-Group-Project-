@@ -1,5 +1,10 @@
 # Practical Data Science Group Project
-# Assignment-3-Group-11
+## Assignment-3-Group-11
+
+### Students:
+* Kha Nguyen Anh Tran - s3750945
+* ? - s
+* ? - s
 
 # Project Setup Guide
 
